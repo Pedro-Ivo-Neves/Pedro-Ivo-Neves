@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-ivo-neves&show_icons=true&locale=en&layout=compact" alt="pedro-ivo-neves" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-ivo-neves&show_icons=true&locale=en" alt="pedro-ivo-neves" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pedro-ivo-neves&show_icons=true&locale=en" alt="pedro-ivo-neves" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-ivo-neves&" alt="pedro-ivo-neves" /></p>
