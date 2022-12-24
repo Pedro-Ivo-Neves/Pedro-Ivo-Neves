@@ -1,6 +1,6 @@
 ![MasterHead](https://uploads-ssl.webflow.com/5f841209f4e71b2d70034471/6078b650748b8558d46ffb7f_Flutter%20app%20development.png)
 <h1 align="center">Olá 👋, Chamo-me Pedro Neves</h1>
-<h3 align="center">Sou um Full-Stack Developer, mas mais especializado na parte do FullStack e Design</h3>
+<h3 align="center">Sou um Full-Stack Developer, mas mais especializado na parte do Front-End e Design</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro-ivo-neves&label=Profile%20views&color=0e75b6&style=flat" alt="pedro-ivo-neves" /> </p>
