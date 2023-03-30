@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pedro neves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro neves" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pedro-ivo-neves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro neves" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pedro_neves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pedro_neves" height="30" width="40" /></a>
 <a href="https://discord.gg/PedroNeves_840656947#9324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PedroNeves_840656947#9324" height="30" width="40" /></a>
 </p>
