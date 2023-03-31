@@ -15,9 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pedro-ivo-neves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro neves" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pedro_neves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pedro_neves" height="30" width="40" /></a>
-<a href="https://discord.gg/PedroNeves#9324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PedroNeves_840656947#9324" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pedro-ivo-neves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="You can see my LinkedIn Bio" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pedro_neves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="You can see my progress and results" height="30" width="40" /></a>
+<a href="https://discord.gg/PedroNeves#9324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dm me in discord" height="30" width="40" /></a>
+<a href='mailto:pedronevesmz2015@gmail.com'><img align="center" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631' height="28" width="34" alt="Email me" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
