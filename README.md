@@ -128,9 +128,9 @@
 <p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-ivo-neves&show_icons=true&locale=en&layout=compact" alt="pedro-ivo-neves" />
 &nbsp; -->
-<img src="https://github-readme-stats.vercel.app/api?username=pedro-ivo-neves&show_icons=true&locale=en" alt="pedro-ivo-neves" align="left"/>
-<!-- <br><br> -->
+<img src="https://github-readme-stats.vercel.app/api?username=pedro-ivo-neves&show_icons=true&locale=en" alt="pedro-ivo-neves" />
+<br>
 <!-- <p> -->
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-ivo-neves&" alt="pedro-ivo-neves" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-ivo-neves&" alt="pedro-ivo-neves" /></p>
 
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
