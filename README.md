@@ -128,7 +128,7 @@
 <p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-ivo-neves&show_icons=true&locale=en&layout=compact" alt="pedro-ivo-neves" />
 &nbsp; -->
-<img src="https://github-readme-stats.vercel.app/api?username=pedro-ivo-neves&show_icons=true&locale=en" alt="pedro-ivo-neves" align="left"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=pedro-ivo-neves&show_icons=true&locale=en" alt="pedro-ivo-neves" align="left"/>
 <!-- <br><br> -->
 <!-- <p> -->
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-ivo-neves&" alt="pedro-ivo-neves" /></p>
