@@ -53,6 +53,9 @@
 <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg"  width="40" height="40" alt="Ionic"> 
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"  width="40" height="40" alt="NodeJS">    
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  width="40" height="40" alt="Tailwind"> 
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"  width="40" height="40" alt="Sass"> 
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg"  width="40" height="40" alt="Android"> 
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"  width="40" height="40" alt="Laravel">
 
 </p>
 
@@ -94,8 +97,13 @@
 <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"  width="40" height="40" alt="JetBrains">
   
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width="40" height="40" alt="Postman">
+<img src="https://camo.githubusercontent.com/df61f4b2e2cc40922b5290ed53040485ab7167836872ce1aa88d88462e9816ce/68747470733a2f2f7261696c7761792e6170702f6272616e642f6c6f676f2d6c696768742e706e67"  width="45" height="45" alt="Railway">
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"  width="40" height="40" alt="Heroku">
 <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg"  width="40" height="40" alt="Twilio">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  width="40" height="40" alt="Git">
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"  width="40" height="40" alt="GitLab">
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"  width="40" height="40" alt="Jira">
+  
 </p>
 
 <br>
