@@ -56,7 +56,7 @@
 <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"  width="40" height="40" alt="Sass"> 
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg"  width="40" height="40" alt="Android"> 
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"  width="40" height="40" alt="Laravel">
-
+  
 </p>
 
 <br>
@@ -103,7 +103,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  width="40" height="40" alt="Git">
 <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"  width="40" height="40" alt="GitLab">
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"  width="40" height="40" alt="Jira">
-  
+<img src="https://www.vectorlogo.zone/logos/readmeio/readmeio-icon.svg"  width="40" height="40" alt="ReadMe.io">
 </p>
 
 <br>
