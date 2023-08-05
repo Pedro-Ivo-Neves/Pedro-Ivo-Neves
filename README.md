@@ -155,9 +155,36 @@
 <p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-ivo-neves&show_icons=true&locale=en&layout=compact" alt="pedro-ivo-neves" />
 &nbsp; -->
-<img src="https://github-readme-stats.vercel.app/api?username=pedro-ivo-neves&show_icons=true&locale=en" alt="pedro-ivo-neves" width="500"/>
-<br>
-<!-- <p> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-ivo-neves&" alt="pedro-ivo-neves" width="500"/></p>
 
+<!-- Github 1º Card -->  
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pedro-ivo-neves&show_icons=true&theme=vue-dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+    />
+<source
+    srcset="https://github-readme-stats.vercel.app/api?username=pedro-ivo-neves&show_icons=true&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference) "
+    />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=pedro-ivo-neves&show_icons=true&locale=en" alt="pedro-ivo-neves" />
+</picture>
+  
+<!--<br>-->
+<!-- <p> -->
+
+<!-- Github 2º Card -->
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=pedro-ivo-neves&theme=vue-dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+    />
+<source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=pedro-ivo-neves&show_icons=true&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference) "
+    />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pedro-ivo-neves&show_icons=true" alt="pedro-ivo-neves"/>
+</picture>
+</p>
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
