@@ -187,9 +187,9 @@
 
 <h3>DevOps: </h3>
 <p>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"  width="60" height="55" alt="Docker"> 
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"  width="60" height="60" alt="Docker" align="top"> 
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  width="45" height="45" alt="Kubernetes"> 
-
+<!-- Bash -->
 <picture>
   <source
     srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bash_Logo_White.svg/512px-Bash_Logo_White.svg.png?20180723054244"
