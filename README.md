@@ -120,7 +120,20 @@
 <p>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  width="40" height="40" alt="Figma"> 
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"  width="40" height="40" alt="Ilustrador">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"  width="40" height="40" alt="Photoshop">
+
+<!-- Photoshop -->
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+    media="(prefers-color-scheme: dark)"
+    />
+<source
+    srcset="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference) "
+    />
+  
+  <img src="https://vectorwiki.com/images/qz3pp__blender.svg" width="40" height="40" alt="blender"/>
+</picture>
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"  width="40" height="40" alt="Xd">
 <!-- Blender -->
 <picture>
@@ -145,7 +158,19 @@
 
 <h3>Technologies: </h3>
 <p>
-<img src="https://camo.githubusercontent.com/df61f4b2e2cc40922b5290ed53040485ab7167836872ce1aa88d88462e9816ce/68747470733a2f2f7261696c7761792e6170702f6272616e642f6c6f676f2d6c696768742e706e67"  width="45" height="45" alt="Railway">
+<!-- Railway -->
+<picture>
+  <source
+    srcset="https://camo.githubusercontent.com/df61f4b2e2cc40922b5290ed53040485ab7167836872ce1aa88d88462e9816ce/68747470733a2f2f7261696c7761792e6170702f6272616e642f6c6f676f2d6c696768742e706e67"
+    media="(prefers-color-scheme: dark)"
+    />
+<source
+    srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/932e24917489477d3388d37a6ae8b3a20584069e/icons/railway.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference) "
+    />
+  
+  <img src="https://camo.githubusercontent.com/df61f4b2e2cc40922b5290ed53040485ab7167836872ce1aa88d88462e9816ce/68747470733a2f2f7261696c7761792e6170702f6272616e642f6c6f676f2d6c696768742e706e67" width="40" height="40" alt="railway"/>
+</picture>
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"  width="40" height="40" alt="Heroku">
 <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg"  width="40" height="40" alt="Twilio">
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"  width="40" height="40" alt="Jira">
