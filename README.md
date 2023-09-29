@@ -206,6 +206,20 @@
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"  width="50" height="50" alt="Jenkins">
 <img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png"  width="48" height="48" alt="Github Actions">
 <img src="https://raw.githubusercontent.com/uiwjs/file-icons/00092fb19e0357a7d8e1cec4f909c7be24c426e9/icon/terraform.svg"  width="50" height="50" alt="Terraform">
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  width="50" height="50" alt="Ansible">
+<!-- Vault -->
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/vault-icon.svg"
+    media="(prefers-color-scheme: dark)"
+    />
+<source
+    srcset="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference) "
+    />
+  
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/vault-icon.svg" width="48" height="48" alt="vault" />
+</picture>
 
 </p>
 <br><br>
