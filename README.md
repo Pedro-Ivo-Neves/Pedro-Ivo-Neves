@@ -16,7 +16,22 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pedro-ivo-neves" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="You can see my LinkedIn Bio" height="35" width="45" /></a>
-<a href="https://www.leetcode.com/pedro_neves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="You can see my progress and results" height="35" width="45" /></a>
+  
+<!-- LeetCode -->
+<a href="https://www.leetcode.com/pedro_neves" target="blank">
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+    media="(prefers-color-scheme: dark)"
+    />
+<source
+    srcset="https://raw.githubusercontent.com/coreui/coreui-icons/d56257e1d3b9c44ccc12fcab2d692d21539b68ff/svg/brand/cib-leetcode.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference) "
+    />
+  
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" height="35" alt="leetcode"/>
+</picture>
+</a>
 <a href="https://Discordapp.com/users/815972951345332256" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Dm me in discord" height="35" width="35" /></a>
 <a href='mailto:pedronevesmz2015@gmail.com'><img align="center" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631' height="33" width="39" alt="Email me" /></a>
 </p>
@@ -107,7 +122,19 @@
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"  width="40" height="40" alt="Ilustrador">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"  width="40" height="40" alt="Photoshop">
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"  width="40" height="40" alt="Xd">
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+<!-- Blender -->
+<picture>
+  <source
+    srcset="https://vectorwiki.com/images/qz3pp__blender.svg"
+    media="(prefers-color-scheme: dark)"
+    />
+<source
+    srcset="https://vectorwiki.com/images/MEYYi__blender.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference) "
+    />
+  
+  <img src="https://vectorwiki.com/images/qz3pp__blender.svg" width="40" height="40" alt="blender"/>
+</picture>
 <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" width="40" height="40" alt="InkScape">
 <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="40" height="40" alt="Gimp">
   
@@ -135,9 +162,22 @@
 
 <h3>DevOps: </h3>
 <p>
-<img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/3ed9a8c5cf1158747cda806ca2c6becd867ef325/src/drivers/webextension/images/icons/Docker.svg"  width="60" height="60" alt="Docker"> 
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"  width="60" height="55" alt="Docker"> 
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  width="45" height="45" alt="Kubernetes"> 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"  width="50" height="50" alt="Bash"> 
+
+<picture>
+  <source
+    srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bash_Logo_White.svg/512px-Bash_Logo_White.svg.png?20180723054244"
+    media="(prefers-color-scheme: dark)"
+    />
+<source
+    srcset="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bash/bash-original.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference) "
+    />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bash_Logo_White.svg/512px-Bash_Logo_White.svg.png?20180723054244" width="50" height="50" alt="bash" />
+</picture>
+
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"  width="50" height="50" alt="Jenkins">
 <img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png"  width="48" height="48" alt="Github Actions">
 <img src="https://raw.githubusercontent.com/uiwjs/file-icons/00092fb19e0357a7d8e1cec4f909c7be24c426e9/icon/terraform.svg"  width="50" height="50" alt="Terraform">
@@ -180,11 +220,11 @@
     media="(prefers-color-scheme: dark)"
     />
 <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=pedro-ivo-neves&show_icons=true&theme=vue"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=pedro-ivo-neves&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference) "
     />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pedro-ivo-neves&show_icons=true" alt="pedro-ivo-neves"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pedro-ivo-neves" alt="pedro-ivo-neves"/>
 </picture>
 </p>
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
