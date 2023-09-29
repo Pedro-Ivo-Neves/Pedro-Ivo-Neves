@@ -180,7 +180,7 @@
 <img src="https://raw.githubusercontent.com/DiemenDesign/LibreICONS/2d2172d15e3c6ca03c018629d60050e4b99e5c55/svg-color/libre-gui-eraser.svg"  width="35" height="40" alt="Eraser.io">
 <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ci8hv3dncoavlcwjh0g8"  width="40" height="40" alt="WriteSonic">
 <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"  width="35" height="35" alt="Slack">
-
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/pm2-icon.svg"  width="35" height="35" alt="PM2">
 </p>
 
 <br>
