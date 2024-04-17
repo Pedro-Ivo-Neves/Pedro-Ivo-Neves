@@ -142,6 +142,7 @@
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"  width="40" height="40" alt="Heroku">
 <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg"  width="40" height="40" alt="Twilio">
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"  width="40" height="40" alt="Jira">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" width="40" height="40" alt="Notion">
 <!-- <img src="https://www.vectorlogo.zone/logos/readmeio/readmeio-icon.svg"  width="40" height="40" alt="ReadMe.io"> -->
 <img src="https://vectorwiki.com/images/PmILE__google-cloud.svg"  width="40" height="40" alt="Google Cloud">
 <!-- <img src="https://raw.githubusercontent.com/DiemenDesign/LibreICONS/2d2172d15e3c6ca03c018629d60050e4b99e5c55/svg-color/libre-gui-eraser.svg"  width="35" height="40" alt="Eraser.io"> -->
