@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro-ivo-neves&label=Profile%20views&color=0e75b6&style=flat" alt="pedro-ivo-neves" /> </p>
 
-- 🔭 Currently, I'm actively developing applications using the power of **Flutter**, **Ionic**, and **Spring** frameworks;
+- 🔭 Currently, I'm actively developing applications using the power of **Flutter** and **Spring** frameworks;
 
-- 🌱 For now I'm learning **Ionic**;
+- 🌱 For now I'm learning **Go** 🦫;
 
 - 🎓 I'm a **ISCTEM** student in the last year of college;
 
@@ -47,12 +47,9 @@
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"  width="40" height="40" alt="Kotlin">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="Javascrpit">
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40" alt="TypeScrpit">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="CSharp"/>
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40" alt="Html5"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40" alt="Css3"/>
-<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="40" height="40" alt="PHP"/>
-  
+<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="50" height="50" alt="Go">
 </p>
 
 <br>
@@ -64,14 +61,12 @@
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"  width="40" height="40" alt="Angluar">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"  width="40" height="40" alt="Svelt">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"  width="40" height="40" alt="React">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="40" height="40" alt="BootStrap">
-<img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg"  width="40" height="40" alt="Ionic"> 
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="40" height="40" alt="BootStrap"> -->
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"  width="40" height="40" alt="NodeJS">    
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  width="40" height="40" alt="Tailwind"> 
 <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"  width="40" height="40" alt="Sass"> 
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg"  width="40" height="40" alt="Android"> 
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"  width="40" height="40" alt="Laravel">
-  
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg"  width="40" height="40" alt="Android">   
+
 </p>
 
 <br>
@@ -83,19 +78,18 @@
 <img src="https://vitest.dev/logo.svg"  width="45" height="45" alt="Vitest">
 <img src="https://github.com/Pedro-Ivo-Neves/Pedro-Ivo-Neves/assets/83455817/2ae4aee1-38ea-4801-8432-bc59c40f7a30"  width="45" height="40" alt="Karma">
 
-
 </p>
+
 <br>
 
 <h3>Database: </h3>
 <p>
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"  width="40" height="40" alt="PostgreSQL"> 
-<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"  width="40" height="40" alt="OracleDB">
+<!-- <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"  width="40" height="40" alt="OracleDB"> -->
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"  width="40" height="40" alt="MySQL">
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"  width="40" height="40" alt="SqlLite">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"  width="40" height="40" alt="MongoDB">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"  width="40" height="40" alt="Firebase">
-<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg"  width="40" height="40" alt="AppWrite">
 <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"  width="40" height="40" alt="Redis">
   
 </p>
@@ -109,7 +103,6 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width="40" height="40" alt="Postman">
 <img src="https://vectorwiki.com/images/bjlcA__vitejs.svg"  width="40" height="40" alt="Vite"> 
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"  width="38" height="38" alt="Npm">
-<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/capacitorjs-icon.svg"  width="35" height="35" alt="Capacitor">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  width="40" height="40" alt="Git">
 <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"  width="40" height="40" alt="GitLab">
 </p>
@@ -119,22 +112,7 @@
 <h3>Design Tools: </h3>
 <p>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  width="40" height="40" alt="Figma"> 
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"  width="40" height="40" alt="Ilustrador">
 
-<!-- Photoshop -->
-<picture>
-  <source
-    srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-    media="(prefers-color-scheme: dark)"
-    />
-<source
-    srcset="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference) "
-    />
-  
-  <img src="https://vectorwiki.com/images/qz3pp__blender.svg" width="40" height="40" alt="blender"/>
-</picture>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"  width="40" height="40" alt="Xd">
 <!-- Blender -->
 <picture>
   <source
@@ -148,6 +126,7 @@
   
   <img src="https://vectorwiki.com/images/qz3pp__blender.svg" width="40" height="40" alt="blender"/>
 </picture>
+
 <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" width="40" height="40" alt="InkScape">
 <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="40" height="40" alt="Gimp">
   
@@ -158,27 +137,14 @@
 
 <h3>Technologies: </h3>
 <p>
-<!-- Railway -->
-<picture>
-  <source
-    srcset="https://camo.githubusercontent.com/df61f4b2e2cc40922b5290ed53040485ab7167836872ce1aa88d88462e9816ce/68747470733a2f2f7261696c7761792e6170702f6272616e642f6c6f676f2d6c696768742e706e67"
-    media="(prefers-color-scheme: dark)"
-    />
-<source
-    srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/932e24917489477d3388d37a6ae8b3a20584069e/icons/railway.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference) "
-    />
-  
-  <img src="https://camo.githubusercontent.com/df61f4b2e2cc40922b5290ed53040485ab7167836872ce1aa88d88462e9816ce/68747470733a2f2f7261696c7761792e6170702f6272616e642f6c6f676f2d6c696768742e706e67" width="40" height="40" alt="railway"/>
-</picture>
+
+
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"  width="40" height="40" alt="Heroku">
 <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg"  width="40" height="40" alt="Twilio">
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"  width="40" height="40" alt="Jira">
-<img src="https://www.vectorlogo.zone/logos/readmeio/readmeio-icon.svg"  width="40" height="40" alt="ReadMe.io">
+<!-- <img src="https://www.vectorlogo.zone/logos/readmeio/readmeio-icon.svg"  width="40" height="40" alt="ReadMe.io"> -->
 <img src="https://vectorwiki.com/images/PmILE__google-cloud.svg"  width="40" height="40" alt="Google Cloud">
-<img src="https://vectorwiki.com/images/AIm9a__cloudinary.svg"  width="45" height="45" alt="Cloudinary">
-<img src="https://raw.githubusercontent.com/DiemenDesign/LibreICONS/2d2172d15e3c6ca03c018629d60050e4b99e5c55/svg-color/libre-gui-eraser.svg"  width="35" height="40" alt="Eraser.io">
-<img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ci8hv3dncoavlcwjh0g8"  width="40" height="40" alt="WriteSonic">
+<!-- <img src="https://raw.githubusercontent.com/DiemenDesign/LibreICONS/2d2172d15e3c6ca03c018629d60050e4b99e5c55/svg-color/libre-gui-eraser.svg"  width="35" height="40" alt="Eraser.io"> -->
 <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"  width="35" height="35" alt="Slack">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/pm2-icon.svg"  width="35" height="35" alt="PM2">
 </p>
@@ -205,10 +171,12 @@
 
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"  width="50" height="50" alt="Jenkins">
 <img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png"  width="48" height="48" alt="Github Actions">
-<img src="https://raw.githubusercontent.com/uiwjs/file-icons/00092fb19e0357a7d8e1cec4f909c7be24c426e9/icon/terraform.svg"  width="50" height="50" alt="Terraform">
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  width="50" height="50" alt="Ansible">
+
+<!-- <img src="https://raw.githubusercontent.com/uiwjs/file-icons/00092fb19e0357a7d8e1cec4f909c7be24c426e9/icon/terraform.svg"  width="50" height="50" alt="Terraform"> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  width="50" height="50" alt="Ansible"> -->
+
 <!-- Vault -->
-<picture>
+<!-- <picture>
   <source
     srcset="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/vault-icon.svg"
     media="(prefers-color-scheme: dark)"
@@ -219,17 +187,11 @@
     />
   
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/vault-icon.svg" width="48" height="48" alt="vault" />
-</picture>
+</picture> 
+-->
 
 </p>
 <br><br>
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-<img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" width="40" height="40" alt="Ionic">
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40" height="40" alt="Angular"> 
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40" alt="Typescript">
-<img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" width="40" height="40" alt="InkScape">
-</p> -->
 
 <p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-ivo-neves&show_icons=true&locale=en&layout=compact" alt="pedro-ivo-neves" />
