@@ -69,16 +69,6 @@
 
 </p>
 
-<br>
-
-<h3>Testing Frameworks: </h3>
-<p>
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"  width="40" height="40" alt="Jest">
-<img src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg"  width="42" height="42" alt="Cypress">
-<img src="https://vitest.dev/logo.svg"  width="45" height="45" alt="Vitest">
-<img src="https://github.com/Pedro-Ivo-Neves/Pedro-Ivo-Neves/assets/83455817/2ae4aee1-38ea-4801-8432-bc59c40f7a30"  width="45" height="40" alt="Karma">
-
-</p>
 
 <br>
 
