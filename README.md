@@ -32,7 +32,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" height="35" alt="leetcode"/>
 </picture>
 </a>
-<a href="https://Discordapp.com/users/815972951345332256" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Dm me in discord" height="35" width="35" /></a>
+<!-- <a href="https://Discordapp.com/users/815972951345332256" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Dm me in discord" height="35" width="35" /></a> -->
 <a href='mailto:pedronevesmz2015@gmail.com'><img align="center" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631' height="33" width="39" alt="Email me" /></a>
 </p>
 
